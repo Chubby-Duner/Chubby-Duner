@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/chubbyduner@163.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:chubbyduner@163.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chubby-Duner&show_icons=true&theme=cobalt)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chubby-Duner&layout=compact)
