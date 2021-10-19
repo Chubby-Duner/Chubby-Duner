@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=Google-Chrome&logoColor=fff)
 
-[![GitHub](https://img.shields.io/badge/HuanBaby1314-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/Chubby-Duner)
+[![GitHub](https://img.shields.io/badge/Chubby-Duner-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/Chubby-Duner)
 [![Email](https://img.shields.io/badge/1262426172@qq.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:1262426172@qq.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chubby-Duner&show_icons=true&theme=radical)
