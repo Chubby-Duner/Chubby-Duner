@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chubby-Duner&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chubby-Duner&layout=compact)
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Chubby-Duner/count.svg" />
-</p>
+</p> -->
 
 <p align="right">
     Designed with :heart: by <a href="https://github.com/Chubby-Duner" target="_blank">Chubby-Duner</a>.
