@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aiqizai&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
-### Hi there 👋
-### This is Chubby-Duner 😄
+### Hi there 👋⚡
+### This is Chubby-Duner / 性感的肥猫猫 / .小胖墩er. 🌱
 
-- :hammer: A front end developer
+- :hammer: A frontend developer
 - :orange_book: Interested in psychology
 
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=fff)
