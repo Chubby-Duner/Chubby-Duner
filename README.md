@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 - :hammer: A front end developer
 - :orange_book: Interested in psychology
 
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=Google-Chrome&logoColor=fff)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chubby-Duner&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chubby-Duner&layout=compact)
