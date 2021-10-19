@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/Chubby-Duner-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/Chubby-Duner)
 [![Email](https://img.shields.io/badge/chubbyduner@163.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:chubbyduner@163.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chubby-Duner&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chubby-Duner&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chubby-Duner&layout=compact)
